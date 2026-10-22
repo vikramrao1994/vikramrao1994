@@ -3,11 +3,11 @@
 <a href="https://www.vikramrao.me/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-assets/hero-dark.svg">
-    <img alt="Vikram Rao — Senior Frontend &amp; Full-Stack Engineer. I build thoughtful digital systems." src="profile-assets/hero-light.svg" width="100%">
+    <img alt="Vikram Rao — AI-Native Product Engineer. I build thoughtful digital systems." src="profile-assets/hero-light.svg" width="100%">
   </picture>
 </a>
 
-**Full-stack engineer working across frontend architecture, AI-native products, and accessible interfaces.** Explore verified engineering experience, architecture decisions, technical writing, and grounded answers backed by real project evidence.
+**Full-stack engineer working across frontend architecture, AI-native products, and accessible interfaces.** Product engineer building AI-powered applications, retrieval systems, and modern web experiences. Explore engineering decisions, architectures, and projects.
 
 [**Visit the portfolio →**](https://www.vikramrao.me/) · [Explore the architecture →](https://www.vikramrao.me/#architecture)
 
